@@ -19,3 +19,9 @@
 
 6. **Task-6**
     - [Fraud Transaction Detection]()
+
+7. **Task-7**
+    - [Heart Disease Prediction]()
+  
+8. **Task-8**
+    - [Movie Reviews classification]()
